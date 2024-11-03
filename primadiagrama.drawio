@@ -133,7 +133,7 @@
           <mxGeometry x="610" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0QupMzkVJl-2WLbC3zz7-7" value="vegetatie" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0QupMzkVJl-2WLbC3zz7-8" value="arbori" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="360" width="120" height="60" as="geometry" />
